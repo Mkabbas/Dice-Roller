@@ -1,0 +1,28 @@
+body {
+    background-color: #393E46;
+    color: #4ECCA3;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Silkscreen";
+    font-size: 8rem;
+    margin: 3%;
+    text-shadow: 10px 0 #232931;
+}
+
+footer {
+    color: rgb(179, 179, 179);
+    margin-top: 9%;
+}
+
+.players {
+    display: inline-block;
+    margin: 5% 2%;
+    font-family: "Source Code Pro";
+    font-size: 1.5rem;
+}
+
+.dice-img {
+    width: 60%;
+}
